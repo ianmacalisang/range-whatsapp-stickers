@@ -1,0 +1,30 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "RangeIPI Stickers",
+      "publisher": "Ian Andrew Macalisang",
+      "tray_image_file": "logo.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "range-logo.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "uae-national-day.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "range-logo-2.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    }
+  ]
+}
